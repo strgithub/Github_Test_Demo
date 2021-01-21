@@ -1,2 +1,2 @@
-console.log("display app1.js");
+console.log("display2 app1.js");
  
